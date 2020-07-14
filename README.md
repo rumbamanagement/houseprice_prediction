@@ -6,7 +6,7 @@ House Prices: Advanced Regression Techniques is one of the prediction competitio
 
 * Python Version: 3.7
 * Packages: pandas, numpy, sklearn, matplotlib, seaborn
-** Dataset : https://www.kaggle.com/c/house-prices-advanced-regression-techniques/data
+* Dataset : https://www.kaggle.com/c/house-prices-advanced-regression-techniques/data
 
 # Data Description
 Here's a brief version of what you'll find in the data description file.
