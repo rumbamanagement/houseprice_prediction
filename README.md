@@ -1,6 +1,6 @@
 # House Price Prediction : Overview
 
-House Prices: Advanced Regression Techniques is one of the prediction competitions in Kaggle.com. This prediction project is about predicting house prices based upon the different features of the house which the general buyers might look into. The features might be utilities avaialability, number of bedrooms, garage conditions, alley acces, conditions of basement, shape, structures, date of construction and overall conditions. In addition, this project also gives proper insight on how the different features influences the houseprices. The Ames Housing dataset was compiled by Dean De Cock for use in data science education. This project presents a data set describing the sale of individual residential property in Ames, Iowa from 2006 to 2010. 
+House Prices: Advanced Regression Techniques is one of the prediction competitions in Kaggle.com. This prediction project is about predicting house prices based upon the different features of the house which the general buyers might look into. The features might be utilities availability, number of bedrooms, garage conditions, alley acces, conditions of basement, shape, structures, date of construction and overall conditions. In addition, this project also gives proper insight on how the different features influences the houseprices. The Ames Housing dataset was compiled by Dean De Cock for use in data science education. This project presents a data set describing the sale of individual residential property in Ames, Iowa from 2006 to 2010. 
 
 # Code and Resources Used
 
